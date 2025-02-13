@@ -52,7 +52,7 @@ Apache 2.0(<https://www.apache.org/licenses/LICENSE-2.0.html>)
 1. 支持 NOMMU 环境
 3. 支持 32 模式 (x86, aarch32, riscv32, loongarch32)
 4. 支持 Armv7、MIPS 架构
-5. 为 hal 编写一个更加通用自然的文档，从零开始构建一个内核的教程。
+5. 为 hal 编写一个更加通用自然的文档，从零开始构建一个基础运行环境的教程。
    - 包含基础环境，编译脚本
    - 详细的接口描述
    - 内核需要提供的内容
