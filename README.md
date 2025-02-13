@@ -36,6 +36,8 @@
 
 ## 文档
 
+- [https://oscomp.github.io/proj366-oskernel-hal/](https://oscomp.github.io/proj366-oskernel-hal/)
+
 ## License
 
 Apache 2.0(https://www.apache.org/licenses/LICENSE-2.0.html)
