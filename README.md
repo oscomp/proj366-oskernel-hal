@@ -48,3 +48,10 @@
 Apache 2.0(<https://www.apache.org/licenses/LICENSE-2.0.html>)
 
 ## 预期目标
+
+1. 支持 NOMMU 环境
+3. 支持 32 模式 (x86, aarch32, riscv32, loongarch32)
+4. 支持 Armv7、MIPS 架构
+5. 支持以 libos 方式运行
+6. 支持 webassembly，运行在浏览器之上
+7. 
