@@ -23,6 +23,11 @@ jobs:
     - name: Use Node.js 22
       uses: actions/setup-node@v4
       with:
-        node-version: 22.x
-        cache: 'npm'
-    - run: npx markmap-cli doc-map.md
+        node-version: 22
+    - run: npx markmap-cli doc-map.md -o index
+    - name: Deploy to Github Pages
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        single-commit: true
+        branch: gh-pages
+        folder: .
