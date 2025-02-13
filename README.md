@@ -54,4 +54,4 @@ Apache 2.0(<https://www.apache.org/licenses/LICENSE-2.0.html>)
 4. 支持 Armv7、MIPS 架构
 5. 支持以 libos 方式运行
 6. 支持 webassembly，运行在浏览器之上
-7. 
+7. 改善 HAL 架构设计，构建更自由灵活的架构设计
