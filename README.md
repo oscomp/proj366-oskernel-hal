@@ -1,10 +1,15 @@
 # proj366-oskernel-hal
 
 操作系统内核硬件抽象层
+
 ## 项目描述
+
+
 
 ## 源码
 
+- ArceOS: [https://github.com/oscomp/arceos](https://github.com/oscomp/arceos)
+- Starry-next: [https://github.com/oscomp/starry-next](https://github.com/oscomp/starry-next)
 
 ## 所属赛道
 
