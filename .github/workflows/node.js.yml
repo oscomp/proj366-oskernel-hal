@@ -24,7 +24,7 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: 22
-    - run: npx markmap-cli doc-map.md -o index
+    - run: npx markmap-cli doc-map.md -o index.html
     - name: Deploy to Github Pages
       uses: JamesIves/github-pages-deploy-action@v4
       with:
