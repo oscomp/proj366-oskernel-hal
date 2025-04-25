@@ -10,6 +10,7 @@
 
 - ArceOS: <https://github.com/oscomp/arceos>
 - Starry-next: <https://github.com/oscomp/starry-next>
+- PolyHAL: <https://github.com/Byte-OS/polyhal>
 
 ## 所属赛道
 
